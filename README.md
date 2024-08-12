@@ -37,7 +37,7 @@ Veuillez noter que le code de ce didacticiel repose sur la bibliothèque Python 
 
 Si vous souhaitez interagir directement avec le notebook:
 
-1. Télécharger [Planck_Telescope_Data_Tutorial.ipynb](https://github.com/asc-csa/Planck-Telescope-Data-Tutorial/blob/main/Planck_Telescope_Data_Tutorial.ipynb).
+1. Télécharger [Planck_Telescope_Data_Tutorial.ipynb](https://github.com/asc-csa/Planck-Telescope-Data-Tutorial/blob/main/Planck_Telescope_Data_Tutorial.ipynb) et [requirements.txt](https://github.com/asc-csa/Planck-Telescope-Data-Tutorial/blob/main/requirements.txt).
 2. Ouvrez un terminal à l’emplacement du notebook et entrez la commande suivante pour installer les bibliothèques requises:<br>
 ``` pip install -r requirements.txt ```
 3. Si vous n’avez pas encore utilisé Jupyter Notebooks, installez-le avec:<br>
@@ -62,7 +62,7 @@ Please note that the code in this tutorial relies on the [Healpy](https://healpy
 
 If you wish to interact with the notebook directly:
 
-1. Download [Planck_Telescope_Data_Tutorial.ipynb](https://github.com/asc-csa/Planck-Telescope-Data-Tutorial/blob/main/Planck_Telescope_Data_Tutorial.ipynb).
+1. Download [Planck_Telescope_Data_Tutorial.ipynb](https://github.com/asc-csa/Planck-Telescope-Data-Tutorial/blob/main/Planck_Telescope_Data_Tutorial.ipynb) and [requirements.txt](https://github.com/asc-csa/Planck-Telescope-Data-Tutorial/blob/main/requirements.txt).
 2. Open a terminal in the location of the notebook and enter the following command to install the required libraries: <br>
 ``` pip install -r requirements.txt ```
 3. If you have not previously used Jupyter Notebooks, install it with:<br>
