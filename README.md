@@ -44,25 +44,23 @@ pip install -r requirements.txt
 
 ## Démarrage rapide
 
-Veuillez noter que le code de ce didacticiel repose sur la bibliothèque Python [Healpy](https://healpy.readthedocs.io/en/latest/index.html), qui ne prend pas en charge Windows en mode natif. Si vous souhaitez exécuter le code sur Windows, veuillez utiliser le [Windows Subsystem for Linux](https://learn.microsoft.com/en-us/windows/wsl/install).
+Veuillez noter que le code de ce didacticiel repose sur la bibliothèque Python [Healpy](https://healpy.readthedocs.io/en/latest/index.html), qui ne prend pas en charge Windows en mode natif. Si vous souhaitez exécuter le code sur Windows, veuillez utiliser [l'émulateur Linux de Windows](https://learn.microsoft.com/en-us/windows/wsl/install).
 
 Si vous souhaitez interagir directement avec le notebook:
 
-1. Télécharger [Planck_Telescope_Data_Tutorial.ipynb](https://github.com/asc-csa/Planck-Telescope-Data-Tutorial/blob/main/Planck_Telescope_Data_Tutorial.ipynb) et [requirements.txt](https://github.com/asc-csa/Planck-Telescope-Data-Tutorial/blob/main/requirements.txt).
-2. Ouvrez un terminal à l’emplacement du notebook et entrez la commande suivante pour installer les bibliothèques requises:<br>
-``` pip install -r requirements.txt ```
-3. Si vous n’avez pas encore utilisé Jupyter Notebooks, installez-le avec:<br>
+1. Télécharger le fichier du tutoriel [Planck_Telescope_Data_Tutorial.ipynb](https://github.com/asc-csa/Planck-Telescope-Data-Tutorial/blob/main/Planck_Telescope_Data_Tutorial.ipynb).
+2. Si vous n’avez pas encore utilisé Jupyter Notebooks, installez-le avec:<br>
 ``` pip install notebook ```
-4. Entrez la commande suivante pour lancer un serveur Jupyter Notebook local:<br>
+3. Entrez la commande suivante pour lancer un serveur Jupyter Notebook local:<br>
 ``` jupyter notebook ```
-5. Ouvrez l’URL qu’il fournit dans votre navigateur et expérimentez le didacticiel.
+4. Ouvrez le lien web qu’il fournit dans votre navigateur et lancez le didacticiel.
 
-Sinon, vous pouvez simplement utiliser le code directement dans vos propres scripts Python.
+Vous pouvez aussit utiliser le code directement dans vos propres scripts Python.
 
 # Planck Space Telescope Data Tutorial
 
 ## About
-Planck is Europe's first mission to study the birth of the Universe. Planck was launched jointly with the Herschel Space Observatory aboard an Ariane 5 rocket, on May 14, 2009. The satellite is the most sensitive telescope ever designed to study the cosmic microwave background--the remnants of radiation from the Big Bang 13.8 billion years ago. Planck's detectors measure the temperature of this light, searching for regions that are slightly warmer or colder than the average. These small fluctuations in temperature, called anisotropies, provided the seeds for the formation of galaxies that exist today.
+Planck is ESA's first mission to study the birth of the Universe. Planck was launched jointly with the Herschel Space Observatory aboard an Ariane 5 rocket, on May 14, 2009. The satellite is the most sensitive telescope ever designed to study the cosmic microwave background--the remnants of radiation from the Big Bang 13.8 billion years ago. Planck's detectors measure the temperature of this light, searching for regions that are slightly warmer or colder than the average. These small fluctuations in temperature, called anisotropies, provided the seeds for the formation of galaxies that exist today.
 
 The Planck satellite is giving astronomers a glimpse of conditions near the beginning of the Universe. The mission's objective is to help answer some fundamental questions of modern science: How was the Universe formed? How has it evolved to its present form? And what shape will it take in the future? Scientists thereby hope to establish which theory best explains the origin of all cosmic structures.
 
@@ -81,13 +79,11 @@ Please note that the code in this tutorial relies on the [Healpy](https://healpy
 
 If you wish to interact with the notebook directly:
 
-1. Download [Planck_Telescope_Data_Tutorial.ipynb](https://github.com/asc-csa/Planck-Telescope-Data-Tutorial/blob/main/Planck_Telescope_Data_Tutorial.ipynb) and [requirements.txt](https://github.com/asc-csa/Planck-Telescope-Data-Tutorial/blob/main/requirements.txt).
-2. Open a terminal in the location of the notebook and enter the following command to install the required libraries: <br>
-``` pip install -r requirements.txt ```
-3. If you have not previously used Jupyter Notebooks, install it with:<br>
+1. Download the tutorial file [Planck_Telescope_Data_Tutorial.ipynb](https://github.com/asc-csa/Planck-Telescope-Data-Tutorial/blob/main/Planck_Telescope_Data_Tutorial.ipynb).
+2. If you have not previously used Jupyter Notebooks, install it with:<br>
 ``` pip install notebook ```
-4. Enter the following command to launch a local Jupyter Notebook server:<br>
+3. Enter the following command to launch a local Jupyter Notebook server:<br>
 ``` jupyter notebook ```
-5. Open the URL it provides in your browser, and experiment with the tutorial.
+4. Open the URL it provides in your browser, and experiment with the tutorial.
 
 Otherwise, you may simply use the code directly in your own Python scripts.
