@@ -34,6 +34,14 @@ Le télescope spatial Planck fournira aux astronomes un aperçu des conditions q
 
 Le but de ce tutoriel est de faire connaître ces données et d’améliorer leur accessibilité. Dans ce tutoriel, vous êtes fourni des exemples de la façon d’importer des fichiers FITS, d’accéder aux informations d’en-tête, de manipuler les données HEALPix, de visualiser les skymaps et d’effectuer des analyses de base des données.
 
+## Avant de commencer
+
+Assurez-vous d'installer les bibliothèques nécessaires à faire fonctionner le tutoriel.
+
+```
+pip install -r requirements.txt
+```
+
 ## Démarrage rapide
 
 Veuillez noter que le code de ce didacticiel repose sur la bibliothèque Python [Healpy](https://healpy.readthedocs.io/en/latest/index.html), qui ne prend pas en charge Windows en mode natif. Si vous souhaitez exécuter le code sur Windows, veuillez utiliser le [Windows Subsystem for Linux](https://learn.microsoft.com/en-us/windows/wsl/install).
@@ -60,7 +68,15 @@ The Planck satellite is giving astronomers a glimpse of conditions near the begi
 
 The purpose of this tutorial is to raise awareness of this data and enhance its accessibility. In this tutorial, you are provided examples of how to import FITS files, access header information, manipulate the HEALPix data, visualize skymaps, and conduct basic analyses of the data in Python. 
 
-## Quick Start
+## Before starting
+
+Make sure to install the requirements for the tutorial.
+
+```
+pip install -r requirements.txt
+```
+
+## Quick start
 Please note that the code in this tutorial relies on the [Healpy](https://healpy.readthedocs.io/en/latest/index.html) Python library, which does not support Windows natively. If you wish to run the code on Windows, please use the [Windows Subsystem for Linux](https://learn.microsoft.com/en-us/windows/wsl/install).
 
 If you wish to interact with the notebook directly:
