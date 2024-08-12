@@ -22,7 +22,10 @@
  </a>
 </p>
 
-# Extraction des données du télescope spatial Planck - Un tutoriel (English Follows)
+[En Français](#Donnees-télescope-spatial-Planck-Tutoriel)  
+[In English](#Planck-Space-Telescope-Data-Tutorial)    
+
+# Données du télescope spatial Planck - Tutoriel
 
 ## Contexte
 La mission du satellite Planck est la première mission européenne vouée à l'étude de la naissance de l'Univers. Planck a été lancé conjointement avec l'Observatoire spatial Herschel à bord d'une fusée Ariane 5, le 14 mai 2009. Ce satellite est le télescope le plus sensible jamais conçu pour étudier le rayonnement cosmique de fond, c'est-à-dire les résidus du rayonnement issu du Big Bang qui s'est produit il y a 13,8 milliards d'années. Le télescope Planck mesure la température du rayonnement fossile cosmologique et cherche des régions légèrement plus chaudes ou plus froides que la moyenne. Ces faibles fluctuations de température, nommées anisotropies, seraient à l'origine des galaxies qui existent aujourd'hui.
@@ -37,7 +40,7 @@ Veuillez noter que le code de ce didacticiel repose sur la bibliothèque Python 
 
 Si vous souhaitez interagir directement avec le notebook:
 
-1. Télécharger [Planck_Telescope_Data_Tutorial.ipynb](https://github.com/asc-csa/Planck-Telescope-Data-Tutorial/blob/main/Code/Planck_Telescope_Data_Tutorial.ipynb) et [requirements.txt](https://github.com/asc-csa/Planck-Telescope-Data-Tutorial/blob/main/requirements.txt).
+1. Télécharger [Planck_Telescope_Data_Tutorial.ipynb](https://github.com/asc-csa/Planck-Telescope-Data-Tutorial/blob/main/Planck_Telescope_Data_Tutorial.ipynb) et [requirements.txt](https://github.com/asc-csa/Planck-Telescope-Data-Tutorial/blob/main/requirements.txt).
 2. Ouvrez un terminal à l’emplacement du notebook et entrez la commande suivante pour installer les bibliothèques requises:<br>
 ``` pip install -r requirements.txt ```
 3. Si vous n’avez pas encore utilisé Jupyter Notebooks, installez-le avec:<br>
@@ -48,7 +51,7 @@ Si vous souhaitez interagir directement avec le notebook:
 
 Sinon, vous pouvez simplement utiliser le code directement dans vos propres scripts Python.
 
-# Extracting Planck Space Telescope data - A Tutorial  (Le français précède)
+# Planck Space Telescope Data Tutorial
 
 ## About
 Planck is Europe's first mission to study the birth of the Universe. Planck was launched jointly with the Herschel Space Observatory aboard an Ariane 5 rocket, on May 14, 2009. The satellite is the most sensitive telescope ever designed to study the cosmic microwave background--the remnants of radiation from the Big Bang 13.8 billion years ago. Planck's detectors measure the temperature of this light, searching for regions that are slightly warmer or colder than the average. These small fluctuations in temperature, called anisotropies, provided the seeds for the formation of galaxies that exist today.
@@ -62,7 +65,7 @@ Please note that the code in this tutorial relies on the [Healpy](https://healpy
 
 If you wish to interact with the notebook directly:
 
-1. Download [Planck_Telescope_Data_Tutorial.ipynb](https://github.com/asc-csa/Planck-Telescope-Data-Tutorial/blob/main/Code/Planck_Telescope_Data_Tutorial.ipynb) and [requirements.txt](https://github.com/asc-csa/Planck-Telescope-Data-Tutorial/blob/main/requirements.txt).
+1. Download [Planck_Telescope_Data_Tutorial.ipynb](https://github.com/asc-csa/Planck-Telescope-Data-Tutorial/blob/main/Planck_Telescope_Data_Tutorial.ipynb) and [requirements.txt](https://github.com/asc-csa/Planck-Telescope-Data-Tutorial/blob/main/requirements.txt).
 2. Open a terminal in the location of the notebook and enter the following command to install the required libraries: <br>
 ``` pip install -r requirements.txt ```
 3. If you have not previously used Jupyter Notebooks, install it with:<br>
