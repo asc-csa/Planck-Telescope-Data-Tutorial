@@ -38,11 +38,11 @@ Veuillez noter que le code de ce didacticiel repose sur la bibliothèque Python 
 Si vous souhaitez interagir directement avec le notebook:
 
 1. Télécharger [Planck_Telescope_Data_Tutorial.ipynb](https://github.com/asc-csa/Planck-Telescope-Data-Tutorial/blob/main/Planck_Telescope_Data_Tutorial.ipynb).
-2. Ouvrez un terminal à l’emplacement du notebook et entrez la commande suivante pour installer les bibliothèques requises:
+2. Ouvrez un terminal à l’emplacement du notebook et entrez la commande suivante pour installer les bibliothèques requises:<br>
 ``` pip install -r requirements.txt ```
-3. Si vous n’avez pas encore utilisé Jupyter Notebooks, installez-le avec:
+3. Si vous n’avez pas encore utilisé Jupyter Notebooks, installez-le avec:<br>
 ``` pip install notebook ```
-4. Entrez la commande suivante pour lancer un serveur Jupyter Notebook local:
+4. Entrez la commande suivante pour lancer un serveur Jupyter Notebook local:<br>
 ``` jupyter notebook ```
 5. Ouvrez l’URL qu’il fournit dans votre navigateur et expérimentez le didacticiel.
 
@@ -63,11 +63,11 @@ Please note that the code in this tutorial relies on the [Healpy](https://healpy
 If you wish to interact with the notebook directly:
 
 1. Download [Planck_Telescope_Data_Tutorial.ipynb](https://github.com/asc-csa/Planck-Telescope-Data-Tutorial/blob/main/Planck_Telescope_Data_Tutorial.ipynb).
-2. Open a terminal in the location of the notebook and enter the following command to install the required libraries:
+2. Open a terminal in the location of the notebook and enter the following command to install the required libraries: <br>
 ``` pip install -r requirements.txt ```
-3. If you have not previously used Jupyter Notebooks, install it with:
+3. If you have not previously used Jupyter Notebooks, install it with:<br>
 ``` pip install notebook ```
-4. Enter the following command to launch a local Jupyter Notebook server:
+4. Enter the following command to launch a local Jupyter Notebook server:<br>
 ``` jupyter notebook ```
 5. Open the URL it provides in your browser, and experiment with the tutorial.
 
