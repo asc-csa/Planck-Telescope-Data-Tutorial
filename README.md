@@ -28,11 +28,11 @@
 # Données du télescope spatial Planck - Tutoriel
 
 ## Contexte
-La mission du satellite Planck est la première mission européenne vouée à l'étude de la naissance de l'Univers. Planck a été lancé conjointement avec l'Observatoire spatial Herschel à bord d'une fusée Ariane 5, le 14 mai 2009. Ce satellite est le télescope le plus sensible jamais conçu pour étudier le rayonnement cosmique de fond, c'est-à-dire les résidus du rayonnement issu du Big Bang qui se sont produits il y a 13,8 milliards d'années. Le télescope Planck mesure la température du rayonnement fossile cosmologique et recherche les régions plus chaudes ou froides que la moyenne. Ces faibles fluctuations de température, nommées anisotropies, seraient à l'origine des galaxies qui existent aujourd'hui.
+La mission du satellite Planck est la première mission européenne vouée à l'étude de la naissance de l'Univers. Le télescope spatial Planck a été lancé conjointement avec l'Observatoire spatial Herschel à bord d'une fusée Ariane 5, le 14 mai 2009.Il s'agit du télescope spatial le plus sensible jamais conçu pour étudier le rayonnement cosmique de fond, c'est-à-dire les résidus du rayonnement issu du Big Bang qui se sont produits il y a 13,8 milliards d'années. Le télescope Planck mesure la température du rayonnement fossile cosmologique et recherche les régions plus chaudes ou froides que la moyenne. Ces faibles fluctuations de température, nommées anisotropies, seraient à l'origine des galaxies qui existent aujourd'hui.
 
 Le télescope spatial Planck fournira aux astronomes un aperçu des conditions qui régnaient au début de l'Univers. L'objectif de la mission est d'aider à répondre à certaines des grandes questions de la science moderne. Comment l'Univers s'est-il formé? Comment a-t-il évolué jusqu'à sa forme actuelle? Quelle forme prendra-t-il dans l'avenir? Les scientifiques espèrent ainsi établir quelle théorie explique le mieux l'origine de l'ensemble des structures cosmiques.
 
-Le but de ce tutoriel est de faire connaître les données et d’améliorer leur accessibilité. Ce tutoriel vous enseigne surêtes la façon d’importer des fichiers FITS, d’accéder aux informations des entêtes, de manipuler les données HEALPix, de visualiser les données sur une carte du ciel et d’effectuer des analyses de base des données.
+Le but de ce tutoriel est de faire connaître les données et d’améliorer leur accessibilité. Ce tutoriel vous enseigne sur la façon d’importer des fichiers FITS, d’accéder aux informations des entêtes, de manipuler les données HEALPix, de visualiser les données sur une carte du ciel et d’effectuer des analyses de base des données.
 
 ## Avant de commencer
 
