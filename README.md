@@ -22,7 +22,7 @@
  </a>
 </p>
 
-# Extraction de données du télescope spatial Planck - Un tutoriel (English Follows)
+# Extraction des données du télescope spatial Planck - Un tutoriel (English Follows)
 
 ## Contexte
 La mission du satellite Planck est la première mission européenne vouée à l'étude de la naissance de l'Univers. Planck a été lancé conjointement avec l'Observatoire spatial Herschel à bord d'une fusée Ariane 5, le 14 mai 2009. Ce satellite est le télescope le plus sensible jamais conçu pour étudier le rayonnement cosmique de fond, c'est-à-dire les résidus du rayonnement issu du Big Bang qui s'est produit il y a 13,8 milliards d'années. Le télescope Planck mesure la température du rayonnement fossile cosmologique et cherche des régions légèrement plus chaudes ou plus froides que la moyenne. Ces faibles fluctuations de température, nommées anisotropies, seraient à l'origine des galaxies qui existent aujourd'hui.
