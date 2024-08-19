@@ -44,7 +44,7 @@ pip install -r requirements.txt
 
 ## Démarrage rapide
 
-Veuillez noter que le code de ce didacticiel repose sur la bibliothèque Python [Healpy](https://healpy.readthedocs.io/en/latest/index.html), qui ne prend pas en charge Windows en mode natif. Si vous souhaitez exécuter le code sur Windows, veuillez utiliser [l'émulateur Linux de Windows](https://learn.microsoft.com/en-us/windows/wsl/install).
+Veuillez noter que le code de ce didacticiel repose sur la bibliothèque Python [Healpy](https://healpy.readthedocs.io/en/latest/index.html), qui ne prend pas en charge Windows en mode natif. Il est recommandé d'exécuter ce tutoriel dans un environnement Linux. Si vous souhaitez exécuter le code sur Windows, veuillez utiliser [l'émulateur Linux de Windows](https://learn.microsoft.com/en-us/windows/wsl/install) et vous assurez que WSL est actif sur votre ordinateur.
 
 Si vous souhaitez interagir directement avec le notebook:
 
@@ -75,7 +75,7 @@ pip install -r requirements.txt
 ```
 
 ## Quick start
-Please note that the code in this tutorial relies on the [Healpy](https://healpy.readthedocs.io/en/latest/index.html) Python library, which does not support Windows natively. If you wish to run the code on Windows, please use the [Windows Subsystem for Linux](https://learn.microsoft.com/en-us/windows/wsl/install).
+Please note that the code in this tutorial relies on the [Healpy](https://healpy.readthedocs.io/en/latest/index.html) Python library, which does not support Windows natively. Linux is recommended to run this tutorial. If you wish to run the code on Windows, please use the [Windows Subsystem for Linux](https://learn.microsoft.com/en-us/windows/wsl/install) and make sure to enable WSL on your computer.
 
 If you wish to interact with the notebook directly:
 
