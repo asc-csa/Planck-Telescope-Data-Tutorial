@@ -48,7 +48,7 @@ Veuillez noter que le code de ce didacticiel repose sur la bibliothèque Python 
 
 Si vous souhaitez interagir directement avec le notebook:
 
-1. Télécharger le fichier du tutoriel [Planck_Telescope_Data_Tutorial.ipynb](https://github.com/asc-csa/Planck-Telescope-Data-Tutorial/blob/main/Planck_Telescope_Data_Tutorial.ipynb).
+1. Télécharger le fichier du tutoriel [Planck_Telescope_Data_Tutorial.ipynb](https://github.com/asc-csa/Planck-Telescope-Data-Tutorial/blob/main/Code/Planck_Telescope_Data_Tutorial.ipynb).
 2. Si vous n’avez pas encore utilisé Jupyter Notebooks, installez-le avec:<br>
 ``` pip install notebook ```
 3. Entrez la commande suivante pour lancer un serveur Jupyter Notebook local:<br>
@@ -79,7 +79,7 @@ Please note that the code in this tutorial relies on the [Healpy](https://healpy
 
 If you wish to interact with the notebook directly:
 
-1. Download the tutorial file [Planck_Telescope_Data_Tutorial.ipynb](https://github.com/asc-csa/Planck-Telescope-Data-Tutorial/blob/main/Planck_Telescope_Data_Tutorial.ipynb).
+1. Download the tutorial file [Planck_Telescope_Data_Tutorial.ipynb](https://github.com/asc-csa/Planck-Telescope-Data-Tutorial/blob/main/Code/Planck_Telescope_Data_Tutorial.ipynb).
 2. If you have not previously used Jupyter Notebooks, install it with:<br>
 ``` pip install notebook ```
 3. Enter the following command to launch a local Jupyter Notebook server:<br>
