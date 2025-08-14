@@ -21,10 +21,14 @@
     </a>
 </p>
 
-<h2 align="center">
+---
+
+<h3 align="center" style="border-bottom: none;">
   <a href="#titre-du-projet">Français</a> |
   <a href="#project-title">English (follows)</a>
-</h2>
+</h3>
+
+---
 
 <a id="titre-du-projet"></a>
 # Données du télescope spatial Planck - Tutoriel
@@ -98,10 +102,12 @@ Ce projet est sous une licence MIT modifiée – voir le fichier [LICENSE](https
 
 ---
 
-<h2 align="center">
+<h3 align="center">
   <a href="#project-title">English </a> |
   <a href="#titre-du-projet">Français (précède)</a>
-</h2>
+</h3>
+
+---
 
 <a id="project-title"></a>
 # Planck Space Telescope Data Tutorial
@@ -173,3 +179,4 @@ Planck is ESA's first mission to study the birth of the Universe. Planck was lau
 ## License
 
 This project is licensed under a modified MIT license - see the [LICENSE](https://github.com/asc-csa/Planck-Telescope-Data-Tutorial/blob/main/LICENSE.txt) file for details.
+
